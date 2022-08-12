@@ -1,6 +1,6 @@
 from os import system #just to change window title
 def main():
-    system("title " + "Text Meowifier")
+    system("title " + "Tasque Meowifier")
     #Make person choose what do they want
     print("What would you like to do?\n1.Meowify text\n2.Unmeowify text")
     option = int(input())
